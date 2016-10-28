@@ -1,2 +1,2 @@
 # ASR
-Sandeep Pal is ghissu.
+Accept it.
