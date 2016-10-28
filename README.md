@@ -1,2 +1,3 @@
 # ASR
-Sandeep Pal is ghissu.
+Sandeep Pal is Ghissu.
+Swegwan is ghissu.
